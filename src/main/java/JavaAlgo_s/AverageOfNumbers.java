@@ -19,8 +19,6 @@ public class AverageOfNumbers {
 	
 	
 	
-	
-	
 	public static void averageList() {
 		//getting numbers
 				ArrayList<Integer> nums = new ArrayList<Integer>();
